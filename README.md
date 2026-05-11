@@ -23,7 +23,8 @@ The project focuses on uncovering insights related to team performance, player s
 - `IPL_Analysis_Dashboard.pbix` — Power BI dashboard file  
 - `README.md` — Project documentation  
 - `images/` — Dashboard screenshots  
-- `dataset/` — Source dataset (optional if uploaded)  
+- `dataset/` — Source dataset ([IPL Dataset Analysis (2008–2025)](https://www.kaggle.com/code/genieincodebottle/ipl-dataset-analysis-2008-2025)
+)  
 
 ---
 
