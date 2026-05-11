@@ -2,8 +2,13 @@
 
 ## 📊 Project Overview
 
-This repository includes an interactive Power BI dashboard analyzing the Indian Premier League (IPL) from **2008 to 2025**.  
-The project focuses on uncovering insights related to team performance, player statistics, and season-wise trends using real match data.
+The Indian Premier League (IPL) is one of the most dynamic and data-driven T20 leagues, where performance trends, player impact, and match strategies evolve every season. This project presents an interactive Power BI dashboard that analyzes IPL data from **2008 to 2025**, transforming raw match-level and ball-by-ball data into meaningful insights.
+
+The dashboard is designed to provide a comprehensive view of the tournament by combining **team performance analysis, player statistics, and season-wise trends**. It enables users to explore how teams have performed over time, identify consistent top players, and understand key factors influencing match outcomes such as toss decisions, scoring patterns, and venue impact.
+
+Through interactive visuals and structured data modeling, the project highlights important aspects of the IPL, including **run trends, wicket distribution, boundary patterns, and player contributions**. It allows users to filter data by season and drill into specific insights, making the analysis both flexible and intuitive.
+
+Overall, this dashboard offers a clear and engaging way to explore the evolution of the IPL, turning complex datasets into a visual story that is easy to interpret and analyze.
 
 ---
 
